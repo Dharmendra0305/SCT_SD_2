@@ -9,6 +9,10 @@ This project is an AI-inspired "Guess the Number" graphical game developed as Ta
 
 Instead of basic "high/low" responses, the application uses **heuristic feedback logic** to analyze the user's proximity to the target number, providing adaptive hints (e.g., "You're very close!"). It demonstrates proficiency in Object-Oriented Programming (OOP), event-driven architecture, and UI/UX design using Java Swing.
 
+*Here’s the main interface of the Number Guessing Game:*
+
+![Main UI](https://github.com/Dharmendra0305/SCT_SD_2/blob/f7fbc2e27bf908a1cd8eaa1dd662fe5e6115fd23/1.png)
+
 ## ✨ Features
 * **Adaptive AI Hints:** Heuristic logic provides context-aware feedback based on the absolute difference between the guess and the target.
 * **Graphical User Interface (GUI):** Clean, modern interface built entirely with Java Swing.
@@ -44,6 +48,10 @@ Instead of basic "high/low" responses, the application uses **heuristic feedback
 2. Select your desired difficulty from the dropdown menu.
 3. Enter your guess in the text field and click "Guess".
 4. Read the adaptive feedback and adjust your next guess accordingly!
+
+*Example:*
+
+![Conversion Example](https://github.com/Dharmendra0305/SCT_SD_2/blob/f7fbc2e27bf908a1cd8eaa1dd662fe5e6115fd23/2.png)
 
 🤝 Contribution Guidelines
 - Contributions, issues, and feature requests are welcome!
