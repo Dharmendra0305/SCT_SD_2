@@ -53,7 +53,7 @@ Instead of basic "high/low" responses, the application uses **heuristic feedback
 
 ![Conversion Example](https://github.com/Dharmendra0305/SCT_SD_2/blob/f7fbc2e27bf908a1cd8eaa1dd662fe5e6115fd23/2.png)
 
-🤝 Contribution Guidelines
+## 🤝 Contribution Guidelines
 - Contributions, issues, and feature requests are welcome!
   1. Fork the Project
   2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
